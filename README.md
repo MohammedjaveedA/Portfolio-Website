@@ -9,3 +9,6 @@ git clone https://github.com/MohammedjaveedA/Portfolio-Website.git
 cd Portfolio-Website
 npm install
 npm run dev
+
+
+Create a .env file in the root directory and add the required environment variables. 
