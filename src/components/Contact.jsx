@@ -98,7 +98,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="flex-center section-padding py-20">
+    <section id="contact" className="flex-center section-padding py-7">
       <div className="w-full h-full md:px-10 px-5">
         <div className="contact-title">
           <TitleHeader

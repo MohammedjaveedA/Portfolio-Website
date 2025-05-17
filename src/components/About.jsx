@@ -53,7 +53,7 @@ export default function About() {
 
   return (
     <section 
-      className="about-section min-h-screen flex flex-col md:flex-row items-center justify-between px-4 md:px-8 lg:px-16 py-10 md:py-20 overflow-hidden"
+      className="about-section min-h-screen flex flex-col md:flex-row items-center justify-between px-4 md:px-8 lg:px-16 py-10 md:py-10 overflow-hidden"
       id="about"
     >
       <div className="md:w-1/2 w-full flex flex-col items-start about-text pt-10">

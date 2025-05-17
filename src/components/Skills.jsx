@@ -19,7 +19,7 @@ const TechStack = () => {
       {
         y: 0,
         opacity: 1,
-        duration: 1,
+        duration: 1.5,
         ease: "power2.inOut",
         stagger: 0.2,
         scrollTrigger: {
@@ -47,7 +47,7 @@ const TechStack = () => {
 
   return (
     <div id="skills" className="flex-center section-padding py-5">
-      <div className="w-full h-full md:px-10 px-5 pt-20">
+      <div className="w-full h-full md:px-10 px-5 pt-5">
         <TitleHeader
           title="How I Can Contribute & My Key Skills"
           sub="🤝 What I Bring to the Table"
